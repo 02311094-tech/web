@@ -1,0 +1,73 @@
+body{
+    background-image: url(img/fondo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+    font-family: Arial;
+}
+
+.menu{
+    width: 220px;
+    background: #142345;
+    position: fixed;
+    height: 100%;
+    padding: 20px;
+}
+
+.menu img{
+    width: 120px;
+    display: block;
+    margin: auto;
+}
+
+.menu h2{
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+.menu a{
+    display: block;
+    color: #6fa8ff;
+    text-decoration: none;
+    margin: 10px 0;
+}
+
+main{
+    margin-left: 280px;
+    padding: 30px;
+}
+
+.portada img{
+    width: 100%;
+	max-width: 600px;
+	height: auto;
+    display: block;
+    margin: auto;
+}
+
+section{
+    margin-top: 40px;
+}
+
+table{
+    margin: auto;
+}
+
+td{
+    padding: 15px;
+    text-align: center;
+}
+
+td img{
+    width: 120px;
+}
+
+td{
+    text-align: center;
+    padding: 15px;
+}
+
+td img{
+    width: 300px;
+    height: auto;
+    object-fit: contain;
+}
